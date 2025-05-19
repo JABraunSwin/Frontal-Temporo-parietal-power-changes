@@ -16,4 +16,4 @@ The models used in analysis are generated via LCMV weighted source power contras
 Frequency band on interest-sys.arguments broken into 
 delta " 1,4"; theta " 4,8"; alpha " 8,13"; beta " 13,30"; low gamma " 30,80"; high gamma " 80,120"
 
-Contact investigators for information about source data files
+
