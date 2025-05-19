@@ -6,8 +6,11 @@ Scripts import several external standardized tools openly available at https://m
 The models used in analysis are generated via LCMV weighted source power contrast profiles warped to an MNE source space based on each indiviuals T1 weighted MRI. Analysis assessed two conditions - rest and stress 
 
 01_group_stats_contrast_JB.py - runs whole head power contrast
+
 02_group_stats_contrast_ROI_JB.py - runs region of interest power contrast
+
 03_nai_regions2_JB_TEXT.py - runs brain region of interest neural activity indices power output for relative 
+
 04_T_to_Z.py - converts T score to Z score
 
 Frequency band on interest-sys.arguments broken into 
